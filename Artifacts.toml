@@ -4,7 +4,7 @@ git-tree-sha1 = "07df958362d47207df78a7fd1db08c686966c5bf"
 os = "windows"
 
     [[dolphindb_lib.download]]
-    sha256 = "48078570eec0406aed7fe5ff6b0351a7ca35083489885b3e754013206d60a4e5"
+    sha256 = "465662232fb75cd2e27b82746f15c02aec1f807ec8ab09a10592f864926cde86"
     url = "https://github.com/linanisyugioh/dolphindb.jl/releases/download/v1.0.0/dolphindb_windows_x64.tar.gz"
 [[dolphindb_lib]]
 arch = "x86_64"
@@ -13,5 +13,5 @@ libc = "glibc"
 os = "linux"
 
     [[dolphindb_lib.download]]
-    sha256 = "892e04d40b62ef2e80276e037674b1656a9772d46156a63684c725d554748a32"
+    sha256 = "b4ef19676c190b41ece6f874feb65c85bcd13b202886282bd7afc102d577b774"
     url = "https://github.com/linanisyugioh/dolphindb.jl/releases/download/v1.0.0/dolphindb_linux_x64.tar.gz"
