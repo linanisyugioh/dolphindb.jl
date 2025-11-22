@@ -1,0 +1,20 @@
+# Artifacts.toml
+[[dolphindb_lib]]
+arch = "x86_64"
+git-tree-sha1 = "21b8bf913c85aa8e10c6499d4cebdee9be13065a"
+lazy = false
+os = "windows"
+
+    [[dolphindb_lib.download]]
+    sha256 = "d70b3009962fb0cfe74e1a4a0bf69c966de0d6e8dd516499b8644d01536bb629"
+    url = "https://github.com/linanisyugioh/dolphindb.jl/releases/download/v1.0.0/dolphindb_windows_x64.tar.gz"
+
+[[dolphindb_lib]]
+arch = "x86_64"
+git-tree-sha1 = "f065695bdb5892dea62d81239d7a1970977889da"
+lazy = false
+os = "linux"
+
+    [[dolphindb_lib.download]]
+    sha256 = "df350d02986f25339f099c43c23ad162dd0acec297a73fff0dcd3a196b36d6cd"
+    url = "https://github.com/linanisyugioh/dolphindb.jl/releases/download/v1.0.0/dolphindb_linux_x64.tar.gz"
