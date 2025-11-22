@@ -3,6 +3,9 @@ uuid = "1af76d99-1f2a-4c33-a223-4fc504ff2aba"
 authors = ["linan <linanisyugioh@163.com>"]
 version = "1.0.0-DEV"
 
+[deps]
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+
 [compat]
 julia = "1.6.7"
 
