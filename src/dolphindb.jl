@@ -163,8 +163,7 @@ function init(host0::String,port0::Int,usr0::String,psw0::String,table_name0::St
     ddb_reset()
 end
 
-function init(host0::String,port0::Int,usr0::String,psw0::String,table_name0::String,
-              dll_path::String)
+function init(host0::String,port0::Int,usr0::String,psw0::String,table_name0::String)
     global host = host0
     global port = port0
     global usr = usr0
