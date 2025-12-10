@@ -13,5 +13,5 @@ libc = "glibc"
 os = "linux"
 
     [[dolphindb_lib.download]]
-    sha256 = "b4ef19676c190b41ece6f874feb65c85bcd13b202886282bd7afc102d577b774"
+    sha256 = "43ef9abaa1981c066da65855d1ff2a607da4ce53056e029e24678efc65cde974"
     url = "https://github.com/linanisyugioh/dolphindb.jl/releases/download/v1.0.0/dolphindb_linux_x64.tar.gz"
