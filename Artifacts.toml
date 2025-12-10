@@ -8,7 +8,7 @@ os = "windows"
     url = "https://github.com/linanisyugioh/dolphindb.jl/releases/download/v1.0.0/dolphindb_windows_x64.tar.gz"
 [[dolphindb_lib]]
 arch = "x86_64"
-git-tree-sha1 = "06050c2ee9022a376a9b09a62451306195dbc711"
+git-tree-sha1 = "f84a95f96a94435425fb7108119bfb52ddeb6580"
 libc = "glibc"
 os = "linux"
 
